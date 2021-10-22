@@ -1,7 +1,5 @@
 - Hi, I’m @tadreik
-- I’m interested in iOS app development.
-- I’m currently learning Swift, Firebase, Stripe integrations.
-- I’m looking to collaborate on any iOS app.
+- I’m interested in iOS app development
 - How to reach me: email me at tadreik@gmail.com
 
 <!---
