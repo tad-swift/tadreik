@@ -1,5 +1,5 @@
 - Hi, I’m @tadreik
-- I’m interested in iOS app development
+- I do iOS app development
 - How to reach me: email me at tadreik@gmail.com
 
 <!---
